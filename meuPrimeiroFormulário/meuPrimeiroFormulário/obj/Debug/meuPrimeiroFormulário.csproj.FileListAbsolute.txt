@@ -1,0 +1,10 @@
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\bin\Debug\meuPrimeiroFormulário.exe.config
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\bin\Debug\meuPrimeiroFormulário.exe
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\bin\Debug\meuPrimeiroFormulário.pdb
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.Form1.resources
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.Properties.Resources.resources
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.csproj.GenerateResource.cache
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.exe
+C:\Users\USUARIO\source\repos\meuPrimeiroFormulário\meuPrimeiroFormulário\obj\Debug\meuPrimeiroFormulário.pdb
